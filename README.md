@@ -19,6 +19,8 @@ Validate extracted information.
 Integrate an open-source LLM for intelligent document understanding.
 Allow users to interact with documents using natural language questions.
 Export extracted information in JSON format.
+
+
 🌟 Key Features
 
 ✅ Image OCR (JPG, PNG, JPEG)
